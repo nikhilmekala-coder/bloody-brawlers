@@ -8,13 +8,20 @@ Two players battle it out in a physics-based brawl — swing weapons, manage sta
 
 ## 🎮 Screenshots
 
-<!-- Add your screenshots to the screenshots/ folder and update the paths below -->
+### Gameplay
+| Arena Overview | Power-ups |
+|:-:|:-:|
+| ![Gameplay](screenshots/gameplay.jpg) | ![Power-ups](screenshots/powerups.jpg) |
 
-| Main Menu | Gameplay | Sudden Death |
-|:---------:|:--------:|:------------:|
-| ![Main Menu](screenshots/main_menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Sudden Death](screenshots/sudden_death.png) |
+### Combat
+| Close Combat | Heavy Hit (108 DMG!) |
+|:-:|:-:|
+| ![Combat](screenshots/combat.jpg) | ![Combat Close](screenshots/combat_close.jpg) |
 
-> **Note:** To add screenshots, take them in-game and place them in the `screenshots/` folder.
+### Sudden Death
+| Equal HP → Both drop to 1 HP! |
+|:-:|
+| ![Sudden Death](screenshots/sudden_death.jpg) |
 
 ---
 
