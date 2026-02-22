@@ -69,8 +69,8 @@ Two players battle it out in a physics-based brawl — swing weapons, manage sta
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sandesh188/bloddy-brawler.git
-cd bloddy-brawler
+git clone https://github.com/nikhilmekala-coder/bloody-brawlers.git
+cd bloody-brawlers
 ```
 
 ### 2. Start the Server
