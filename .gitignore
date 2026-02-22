@@ -1,0 +1,30 @@
+# Godot exports
+.godot/
+*.import
+export_presets.cfg
+*.translation
+
+# Server dependencies
+server/node_modules/
+server/package-lock.json
+
+# Old project folders
+bloddy-brawler1/
+bloddy-brawler2/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+*.exe
+*.x86_64
+*.pck
+*.zip
+
+# Gemini / AI
+.gemini/
