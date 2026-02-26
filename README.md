@@ -172,7 +172,9 @@ bloddy-brawler/
 ## 👥 Team
 
 <!-- Add your team members here -->
-- **Your Name** — Nikhil
+— Nikhil
+- Sandesh
+- Karthik
 
 ---
 
