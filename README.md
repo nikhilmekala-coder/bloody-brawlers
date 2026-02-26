@@ -172,7 +172,7 @@ bloddy-brawler/
 ## 👥 Team
 
 <!-- Add your team members here -->
-- **Your Name** — Developer
+- **Your Name** — Nikhil
 
 ---
 
